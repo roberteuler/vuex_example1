@@ -71,6 +71,118 @@
           "name": "Mary Gordon"
         }
       ]
+    },
+    {
+      "id": 388453,
+      "category": "animal welfare",
+      "organizer": {
+        "id": "abcd123",
+        "name": "Hans Gunther"
+      },
+      "title": "asdasd",
+      "description": "asdsa",
+      "location": "zsdfsdf",
+      "date": "2020-09-17",
+      "time": "14:00",
+      "attendees": []
+    },
+    {
+      "id": 346639,
+      "category": "nature",
+      "organizer": {
+        "id": "abcd123",
+        "name": "Hans Gunther"
+      },
+      "title": "asdasd",
+      "description": "asdasd",
+      "location": "asdasd",
+      "date": "2020-09-19",
+      "time": "20:00",
+      "attendees": []
+    },
+    {
+      "id": 952645,
+      "category": "housing",
+      "organizer": {
+        "id": "abcd123",
+        "name": "Hans Gunther"
+      },
+      "title": "fghfgh",
+      "description": "fdgh",
+      "location": "fgh",
+      "date": "2020-09-17",
+      "time": "15:00",
+      "attendees": []
+    },
+    {
+      "id": 681449,
+      "category": "animal welfare",
+      "organizer": {
+        "id": "abcd123",
+        "name": "Hans Gunther"
+      },
+      "title": "dasd",
+      "description": "asd",
+      "location": "sad",
+      "date": "2020-09-17",
+      "time": "15:00",
+      "attendees": []
+    },
+    {
+      "id": 897895,
+      "category": "housing",
+      "organizer": {
+        "id": "abcd123",
+        "name": "Hans Gunther"
+      },
+      "title": "sadasd",
+      "description": "sadsad",
+      "location": "asd",
+      "date": "2020-09-09",
+      "time": "13:00",
+      "attendees": []
+    },
+    {
+      "id": 308233,
+      "category": "housing",
+      "organizer": {
+        "id": "abcd123",
+        "name": "Hans"
+      },
+      "title": "hfghfd",
+      "description": "hfdhfdh",
+      "location": "fhfdhg",
+      "date": "2020-09-08",
+      "time": "12:00",
+      "attendees": []
+    },
+    {
+      "id": 312756,
+      "category": "community",
+      "organizer": {
+        "id": "abcd123",
+        "name": "Hans"
+      },
+      "title": "fdshfghgf",
+      "description": "dgfdg",
+      "location": "sddfg",
+      "date": "2020-09-16",
+      "time": "15:00",
+      "attendees": []
+    },
+    {
+      "id": 924693,
+      "category": "housing",
+      "organizer": {
+        "id": "abcd123",
+        "name": "Hans"
+      },
+      "title": "asdasd",
+      "description": "sadsad",
+      "location": "asd",
+      "date": "2020-09-22",
+      "time": "13:00",
+      "attendees": []
     }
   ]
 }
